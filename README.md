@@ -11,13 +11,6 @@
 Turma do 2° SESC- Informática
     
 <hr>
-    
- ** GitHub **
-<br>
-1. Aula1
-0. Aula2
-1. Aula3
-_ GitHub_
 
 #T.I 
     
