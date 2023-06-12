@@ -10,7 +10,7 @@
     Aula de informática - produção de README
     
     Turma do 2° SESC- Informática
-<hr>
+    <hr>
     
     ** GitHub **
     <br>
