@@ -14,11 +14,6 @@
     Turma do 2° SESC- Informática
     
     <hr>
-    
-    
-    
-    **GitHub**
-    _GitHub_
 
 <!--
 **CarvalhoRayssa/CarvalhoRayssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
