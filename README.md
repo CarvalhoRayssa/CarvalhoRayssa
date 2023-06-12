@@ -1,4 +1,4 @@
-### Bem vindo a minha página!! 👋
+### Welcome to my page!! 👋
 
 <h2> Rayssa Batista Carvalho da Silva :) <h2>
   
