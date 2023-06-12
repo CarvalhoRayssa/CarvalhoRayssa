@@ -8,8 +8,28 @@
     <hr>
     <hr>
     Aula de informática - produção de README
+    
     Turma do 2° SESC- Informática
 <hr>
+    
+    **GitHub**
+    <br>
+    1.Aula1
+    0.Aula2
+    1.Aula3
+    _GitHub_
+    
+    - [ ] opção 1
+    - [ ] opção 2
+    - [ ] opção 3
+    
+    #Título 1
+    ***
+    [instagram](https://www.instagram.com/)
+    
+    🫀
+    
+    
 <!--
 **CarvalhoRayssa/CarvalhoRayssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
