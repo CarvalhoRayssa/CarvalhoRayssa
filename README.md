@@ -12,22 +12,22 @@
     Turma do 2° SESC- Informática
 <hr>
     
-    **GitHub**
+    ** GitHub **
     <br>
-    1.Aula1
-    0.Aula2
-    1.Aula3
-    _GitHub_
+    1. Aula1
+    0. Aula2
+    1. Aula3
+    _ GitHub_
     
     - [ ] opção 1
     - [ ] opção 2
     - [ ] opção 3
     
-    #Título 1
-    ***
+    # Título 1
+    
     [instagram](https://www.instagram.com/)
     
-    🫀
+    
     
     
 <!--
