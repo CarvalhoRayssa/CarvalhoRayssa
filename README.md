@@ -6,26 +6,26 @@
   
   <b> SESC Londrina Centro <b>
     <hr>
-    <hr>
-    Aula de informática - produção de README
+ Aula de informática - produção de README
     
-    Turma do 2° SESC- Informática
-    <hr>
+Turma do 2° SESC- Informática
     
-    ** GitHub **
-    <br>
-    1. Aula1
-    0. Aula2
-    1. Aula3
-    _ GitHub_
+<hr>
+    
+ ** GitHub **
+<br>
+1. Aula1
+0. Aula2
+1. Aula3
+_ GitHub_
     
     - [ ] opção 1
     - [ ] opção 2
     - [ ] opção 3
     
-    # Título 1
-    ![senac](https://www.pr.senac.br/principal/index.asp)
-    [instagram](https://www.instagram.com)
+# Título 1
+![senac](https://www.pr.senac.br/principal/index.asp)
+[instagram](https://www.instagram.com)
     
     
     
