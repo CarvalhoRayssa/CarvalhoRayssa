@@ -25,7 +25,7 @@
     
     # Título 1
     
-    [instagram](https://www.instagram.com/)
+    [instagram](https://www.instagram.com)
     
     
     
