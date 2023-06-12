@@ -6,9 +6,10 @@
   
   <b> SESC Londrina Centro <b>
     <hr>
+    <hr>
     Aula de informática - produção de README
     Turma do 2° SESC- Informática
-
+<hr>
 <!--
 **CarvalhoRayssa/CarvalhoRayssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
