@@ -18,13 +18,8 @@ Turma do 2° SESC- Informática
 0. Aula2
 1. Aula3
 _ GitHub_
-    
-    - [ ] opção 1
-    - [ ] opção 2
-    - [ ] opção 3
-    
-# Título 1
-![senac](https://www.pr.senac.br/principal/index.asp)
+
+#T.I 
 [instagram](https://www.instagram.com)
     
     
